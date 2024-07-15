@@ -2793,6 +2793,11 @@ figcaption a {
   border-block: 1px solid var(--color-border);
 }
 
+.gh-footer-text {
+  font-size: 1.2rem;
+  color: var(--color-secondary-text);
+}
+
 .gh-footer-logo {
   position: relative;
   font-size: calc(2.4rem * var(--factor, 1));

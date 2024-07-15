@@ -1,7 +1,7 @@
 {
   "name": "source-kmitl",
   "description": "A theme for the KMITL Ghost (KMITL Medium) publishing platform",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "ghost": ">=5.0.0"
   },
